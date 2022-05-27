@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primer Commit</title>
+</head>
+<body><H1>Mi primer web</H1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur vero asperiores a ratione dolor? Quae quod, fugiat quas eaque ullam soluta perferendis, atque odit modi unde aperiam earum. Voluptatem, animi!
+    </p>
+    <H2>Titulo 2</H2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis quaerat rerum ea voluptas impedit numquam est laborum, odio, odit similique amet tempora! Eius autem ipsa, commodi sint repellat voluptates assumenda?</p>
+    
+</body>
+</html>
